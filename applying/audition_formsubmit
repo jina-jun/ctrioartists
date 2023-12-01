@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="application-name" content="CTRIO ENTERTAINMENT">
+    <meta name="msapplication-tooltip" content="CTRIO ENTERTAINMENT">
+    <meta property="og:url" content="https://www.ctrioent.co.kr/">
+    <meta property="og:image" content="../res/imgs/thumbnail.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="CTRIO ENTERTAINMENT">
+    <meta property="og:locale" content="ko">
+    <meta property="og:title" content="CTRIO ENTERTAINMENT">
+    <meta property="og:description" content="씨트리오 엔터테인먼트">
+    <link rel="canonical" href="https://www.ctrioent.co.kr/">
+    <link rel="shortcut icon" href="../res/imgs/favicon/favicon.ico" type="image/ico">
+    <link rel="apple-touch-icon" href="../res/imgs/favicon/apple-icon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="../res/imgs/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="../res/imgs/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="../res/imgs/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="../res/imgs/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="../res/imgs/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="../res/imgs/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="../res/imgs/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="../res/imgs/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../res/imgs/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../res/imgs/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../res/imgs/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="../res/imgs/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../res/imgs/favicon/favicon-16x16.png">
+
+    <link rel="stylesheet" href="../res/css/common.css">
+    <link rel="stylesheet" href="../res/css/responsive.css">
+    <script src="../res/js/common.js" defer></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiko:wght@400;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+
+    <title>CTRIO ENTERTAINMENT</title>
+</head>
+<body class="subDetail contact">
+    <nav class="gnb">
+        <a href="../index" class="wrap_logo">
+            <h1>CTRIO ENT.</h1>
+            <div class="logo"></div>
+        </a>
+        <p class="page_title-inGnb">CONTACT</p>
+        <div class="wrap_icon">
+            <a onclick="menuControl()" class="icon ic_menu"></a>
+            <a href="javascript:alert('준비중입니다.');" onfocus="this.blur()" class="icon ic_twitter"></a>
+            <a href="javascript:alert('준비중입니다.');" onfocus="this.blur()" class="icon ic_instagram"></a>
+            <a href="javascript:alert('준비중입니다.');" onfocus="this.blur()" class="icon ic_youtube"></a>
+        </div>
+    </nav>
+    <div class="page_title">
+        <p>CONTACT</p>
+    </div>
+    <section>
+        <div class="section_inner">
+            <div class="floating_icons">
+                <svg class="icon ic_arrow back" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                    <path d="M14 5L21 12M21 12L14 19M21 12L3 12" stroke="#B156C3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+                <svg class="icon ic_arrow top" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                    <path d="M14 5L21 12M21 12L14 19M21 12L3 12" stroke="#7F7CEC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </div>
+            <div class="contents audition">
+                <div class="contents_title txt_gradient">
+                    <p class="contents_title-subline">E-mail & Homepage</p>
+                    <p class="contents_title-headline">AUDITION</p>
+                </div>
+                <div class="audition_description">
+                    <p>
+                        이메일, 온라인을 통해 C-TRIO 캐스팅 디렉터에게 자신의 프로필을 보내주세요!<br>
+                        노래나 춤, 연기를 촬영한 동영상과 본인의 정면 및 전신 사진 등 자신을 표현할 수 있는 다양한 자료를 함께 첨부해 주시면 됩니다.
+                    </p>
+                    <p class="audition_precautions">
+                        <b>이메일, 온라인 파일첨부 시 주의사항</b>
+                        <ul>
+                            <li>사진 첨부 시 확장자는 반드시 JPG, GIF, PNG (ai 및 PSD 심사불가) 로 설정하셔야 하며<br>
+                                포토샵 등으로 수정 처리한 사진 또는 손이나 옷 등으로 과도하게 얼굴을 가린 사진은 심사대상에서 제외되오니 참고해주시길 바랍니다.
+                            </li>
+                            <li>동영상 첨부 시 포커스가 맞지 않거나 음질이 좋지 않은 영상은 업로드를 피해주시길 바랍니다.</li>
+                            <li>음악파일 첨부 시 확장자명은 WMA, MP3, WAV, (cda 심사불가) 로 설정해 주세요.</li>
+                        </ul>
+                    </p>
+                </div>
+            </div>
+            <div class="contents wrap_audition_apply">
+                <div class="audition_apply apply-email">
+                    <div>
+                        <p class="audition_apply_title">E-mail 지원</p>
+                        <p class="audition_apply_description">제목은 반드시 이름 / 나이 / 성별 / 지원분야 로 해주세요.</p>
+                    </div>
+                    <div class="audition_apply_contents">
+                        <a class="button" onclick="copyEmail()">
+                            <span>audition@ctrioent.co.kr</span>
+                        </a>
+                        <script>
+                            function copyEmail() {
+                                const element = document.querySelector('.button span');
+                                const storage = document.createElement('textarea');
+                                storage.value = element.innerHTML;
+                                element.appendChild(storage);
+
+                                storage.select();
+                                storage.setSelectionRange(0, 99999);
+                                document.execCommand('copy');
+                                element.removeChild(storage);
+
+                                alert('audition@ctrioent.co.kr를 복사했습니다.');
+                            }
+                        </script>
+                    </div>
+                </div>
+                <div class="audition_apply apply-online">
+                    <div>
+                        <p class="audition_apply_title">온라인 지원</p>
+                    </div>
+                    <form name="audition_apply-online" action="https://formsubmit.co/2ac7e06579377e4941273bea62d51e2a" method="POST" id="audition_apply_form" enctype="multipart/form-data">
+                        <div class="audition_apply_contents">
+                            <div class="group_input_items">
+                                <div class="wrap_input_item">
+                                    <label for="applicant_name">이름</label>
+                                    <input type="text" name="Name" id="applicant_name" placeholder="이름을 입력하세요." required>
+                                </div>
+                                <div class="wrap_input_item">
+                                    <label for="applicant_gender">성별</label>
+                                    <input type="radio" name="Gender" id="applicant_gender" value="남자" class="applicant_gender male" checked>
+                                    <input type="radio" name="Gender" id="applicant_gender" value="여자" class="applicant_gender female">
+                                </div>
+                            </div>
+                            <div class="group_input_items">
+                                <div class="wrap_input_item">
+                                    <label for="applicant_email">이메일</label>
+                                    <input type="email" name="E-mail" id="applicant_email" placeholder="이메일 주소를 입력하세요." required>
+                                </div>
+                                <div class="wrap_input_item">
+                                    <label for="applicant_phone">휴대폰 번호</label>
+                                    <input type="text" name="Phone" id="applicant_phone" placeholder="휴대폰 번호를 입력하세요." required>
+                                </div>
+                            </div>
+                            <div class="group_input_items full">
+                                <div class="wrap_input_item attaching_file">
+                                    <label for="applicant_file">동영상/사진 첨부</label>
+                                    <input type="file" name="Attachment" id="applicant_file" required>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="audition_apply_contents terms">
+                            <div class="group_input_items full">
+                                <div class="wrap_input_item">
+                                    <label for="applicant_terms" class="applicant_terms">개인정보 수집 동의</label>
+                                    <div class="container_terms">
+                                        <div class="wrap_terms_content">
+                                            <div class="terms_content">
+                                                <p>
+                                                    ‘C-TRIO ENTERTAINMENT’(이하 ‘회사’)는 고객님의 개인정보를 중요시하며, “정보통신망 이용촉진 및 정보보호”에 관한 법률을 준수하고 있습니다. 회사는 개인정보취급방침을 통하여 고객님께서 제공하시는 개인정보가 어떠한 용도와 방식으로 이용되고 있으며, 개인정보보호를 위해 어떠한 조치가 취해지고 있는지 알려드립니다. 회사는 개인정보취급방침을 개정하는 경우 웹사이트 공지사항(또는 개별공지)을 통하여 공지할 것입니다.
+                                                </p>
+                                                <p>
+                                                    <b>[수집하는 개인정보 항목]</b><br>
+                                                    회사는 원활한 고객상담 서비스의 제공을 위해 아래와 같은 개인정보를 수집하고 있습니다.<br>
+                                                    수집항목: 이름, 이메일, 휴대폰 번호
+                                                </p>
+                                                <p>
+                                                    <b>[개인정보의 수집 및 이용목적]</b><br>
+                                                    가. 개인식별 및 오디션응모
+                                                </p>
+                                                    <b>[개인정보의 보유 및 이용기간]</b><br>
+                                                    이용자의 개인정보는 원칙적으로, 개인정보 수집 및 이용목적이 달성되면 지체 없이 파기합니다. 단, 다음의 정보에 대해서는 아래의 이유로 명시한 기간 동안 보존합니다.
+                                                <p>
+                                                    가. 회사 내부 방침에 의한 정보보유 사유<br>
+                                                    부정이용 기록 보존 이유: 부정 이용 예방 및 방지, 보존 기간: 1년
+                                                </p>
+                                                <p>
+                                                    나. 관련법령에 의한 정보보유 사유<br>
+                                                    상법, 전자상거래법 등 관계법령의 규정에 의하여 보존할 필요가 있는 경우 회사는 관계법령에서 정한 일정한 기간 동안 회원정보를 보관합니다. 이 경우 회사는 보관하는 정보를 그 보관의 목적으로만 이용하며 보존기간은 아래와 같습니다.
+                                                </p>
+                                                <p>
+                                                    - 소비자의 불만 또는 분쟁처리에 관한 기록 보존 이유: 전자상거래법, 보존 기간: 3년<br>
+                                                    - 본인 확인에 관한 기록 보존 이유: 정보통신망법, 보존 기간: 6개월<br>
+                                                    - 방문에 관한 기록(통신사실확인자료) 보존 이유: 통신비밀 보호법, 보존 기간: 3개월
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="wrap_terms_consent">
+                                            <p>개인정보 수집 및 이용에 동의합니다.</p>
+                                            <div class="terms_consent-checking">
+                                                <input type="radio" name="Terms" id="applicant_terms" value="동의" class="applicant_terms agree">
+                                                <input type="radio" name="Terms" id="applicant_terms" value="동의안함" class="applicant_terms disagree" checked>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <input type="hidden" name="_next" value="https://ctrioent.co.kr/applying/audition_test">
+                        <input type="hidden" name="_subject" value="CTRIO ENT. 온라인 지원자를 확인해주세요.">
+                        <input type="hidden" name="_cc" value="jajun@tmscorp.co.kr">
+                        <input type="hidden" name="_template" value="box">
+                        <input type="hidden" name="_captcha" value="false">
+                        <div class="form_buttons">
+                            <a onclick="location.reload()" class="button form_reset">
+                                <span>취소</span>
+                            </a>
+                            <button type="submit" class="button form_submit">
+                                <span>지원하기</span>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <div class="footer_info">
+            <span class="footer_info-copylight">© C-TRIO ENTERTAINMENT</span>
+        </div>
+    </footer>
+
+    <!-- s: menu -->
+    <div class="close_menu_window">
+        <div class="container_menu_window">
+            <div class="menu_content-top">
+                <p>COURTESY</p>
+                <ul class="wrap_menu-items">
+                    <li class="menu-item">
+                        <a href="https://www.ctrioent.co.kr/about_ctrio">ABOUT C-TRIO</a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="https://www.ctrioent.co.kr/artists">ARTIST</a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="https://www.ctrioent.co.kr/casting">CASTING</a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="https://www.ctrioent.co.kr/news">NEWS</a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="https://www.ctrioent.co.kr/contact">CONTACT</a>
+                    </li>
+                </ul>
+                <p>CONSIDERATION</p>
+            </div>
+            <div class="menu_content-bottom">
+                <p>COMMUNICATION</p>
+            </div>
+        </div>
+    </div>
+    <!-- e: menu -->
+</body>
+</html>

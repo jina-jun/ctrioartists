@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="application-name" content="CTRIO ENTERTAINMENT">
+    <meta name="msapplication-tooltip" content="CTRIO ENTERTAINMENT">
+    <meta property="og:url" content="https://www.ctrioent.co.kr/">
+    <meta property="og:image" content="https://www.ctrioent.co.kr/res/imgs/thumbnail.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="CTRIO ENTERTAINMENT">
+    <meta property="og:locale" content="ko">
+    <meta property="og:title" content="CTRIO ENTERTAINMENT">
+    <meta property="og:description" content="씨트리오 엔터테인먼트는 대중문화를 리드할 재능 있는 예술인과 연기자 발굴 및 육성을 목표로 다양한 사업을 시행 및 도전하고 있는 종합 엔터테인먼트입니다.">
+    <link rel="canonical" href="https://www.ctrioent.co.kr/">
+    <link rel="shortcut icon" href="./res/imgs/favicon/favicon.ico" type="image/ico">
+    <link rel="apple-touch-icon" href="./res/imgs/favicon/apple-icon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="./res/imgs/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="./res/imgs/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="./res/imgs/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="./res/imgs/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="./res/imgs/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="./res/imgs/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="./res/imgs/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="./res/imgs/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="./res/imgs/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="./res/imgs/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./res/imgs/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="./res/imgs/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./res/imgs/favicon/favicon-16x16.png">
+
+    <link rel="stylesheet" href="./res/css/common.css">
+    <link rel="stylesheet" href="./res/css/responsive.css">
+    <script src="./res/js/common.js" defer></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiko:wght@400;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+
+    <title>CTRIO ENTERTAINMENT</title>
+</head>
+<body id="home">
+    <nav class="gnb">
+        <a href="https://www.ctrioent.co.kr/" class="wrap_logo">
+            <h1>CTRIO ENT.</h1>
+            <div class="logo white"></div>
+        </a>
+        <div class="wrap_icon">
+            <a onclick="menuControlHome()" class="icon ic_menu white"></a>
+            <a href="javascript:alert('준비중입니다.');" onfocus="this.blur()" class="icon ic_twitter white"></a>
+            <a href="javascript:alert('준비중입니다.');" onfocus="this.blur()" class="icon ic_instagram white"></a>
+            <a href="javascript:alert('준비중입니다.');" onfocus="this.blur()" class="icon ic_youtube white"></a>
+        </div>
+    </nav>
+    <div class="wrap_video">
+        <div class="inner_video">
+            <a href="./artists" class="video_button">
+                <span>Go to the Artist page</span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                    <path d="M5 12H18M13 6L18.2929 11.2929C18.6834 11.6834 18.6834 12.3166 18.2929 12.7071L13 18" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+                </svg>
+            </a>
+            <video class="video_land" src="./res/videos/ctrio_concept.mp4" autoplay muted playsinline></video>
+            <video class="video_port" src="./res/videos/ctrctrio_concept_port.mp4" autoplay muted playsinline></video>
+        </div>
+    </div>
+    <script>
+        // s: button in video
+        let videoButton = document.querySelector('.video_button');
+        let videoLand = document.querySelector('.video_land');
+        let videoPort = document.querySelector('.video_port');
+
+        videoLand.addEventListener('ended', showButton, false);
+        function showButton() {
+            videoButton.style.display = 'inline-flex';
+        }
+        videoPort.addEventListener('ended', showButton, false);
+        function showButton() {
+            videoButton.style.display = 'inline-flex';
+        }
+    </script>
+    <footer>
+        <!-- <div class="footer_menu">
+            <div class="footer_menu-item">
+                <a href="" class="margin_right-16">회사소개</a>
+                <a href="" class="margin_right-16">공지사항</a>
+                <select name="language" id="language">
+                    <option value="lang_kr">KR</option>
+                    <option value="lang_en">EN</option>
+                    <option value="lang_jp">JP</option>
+                </select>
+            </div>
+        </div> -->
+        <div class="footer_info">
+            <!-- <span class="footer_info-address margin_right-16">서울특별시 영등포구 영등포로 244, 201호<br> (영등포동3가, 로프트시티)</span> -->
+            <span class="footer_info-copylight">© C-TRIO ENTERTAINMENT</span>
+        </div>
+    </footer>
+
+    
+<!-- s: menu -->
+<div class="close_menu_window">
+    <div class="container_menu_window">
+        <div class="menu_content-top">
+            <p>COURTESY</p>
+            <ul class="wrap_menu-items">
+                <li class="menu-item">
+                    <a href="https://www.ctrioent.co.kr/about_ctrio">ABOUT C-TRIO</a>
+                </li>
+                <li class="menu-item">
+                    <a href="https://www.ctrioent.co.kr/artists">ARTIST</a>
+                </li>
+                <li class="menu-item">
+                    <a href="https://www.ctrioent.co.kr/casting">CASTING</a>
+                </li>
+                <li class="menu-item">
+                    <a href="https://www.ctrioent.co.kr/news">NEWS</a>
+                </li>
+                <li class="menu-item">
+                    <a href="https://www.ctrioent.co.kr/contact">CONTACT</a>
+                </li>
+            </ul>
+            <p>CONSIDERATION</p>
+        </div>
+        <div class="menu_content-bottom">
+            <p>COMMUNICATION</p>
+        </div>
+    </div>
+</div>
+<!-- e: menu -->
+</body>
+</html>
