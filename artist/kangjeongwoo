@@ -74,12 +74,12 @@
             <div class="container_profile">
                 <div class="wrap_profile">
                     <div class="profile_img-main">
-                        <img class="prof_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_1.jpg" alt="KANG JUNG WOO PROFILE 01">
+                        <img class="prof_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_1.jpg" alt="KANG JEONG WOO PROFILE 01">
                     </div>
                     <div class="profile">
                         <div class="artist_name">
                             <p>강 정 우</p>
-                            <p class="artist_name-en">KANG JUNG WOO</p>
+                            <p class="artist_name-en">KANG JEONG WOO</p>
                         </div>
                         <div class="artist_info">
                             <p><span class="artist_info_title">생일</span><span>84년 01월 28일</span></p>
@@ -98,41 +98,41 @@
                             <svg class="icon ic_arrow left" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
                                 <path d="M14 5L21 12M21 12L14 19M21 12L3 12" stroke="#f9f9f9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                             </svg>
-                            <p class="img_popup_title">KANG JUNG WOO PROFILE</p>
+                            <p class="img_popup_title">KANG JEONG WOO PROFILE</p>
                             <svg class="icon ic_arrow right" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
                                 <path d="M14 5L21 12M21 12L14 19M21 12L3 12" stroke="#f9f9f9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                             </svg>
                             <span class="btn_close"></span>
                         </div>
-                        <img class="img_popup-large" src="../res/imgs/artist/kangjungwoo/kangjungwoo_2.jpg" alt="KANG JUNG WOO PROFILE">
+                        <img class="img_popup-large" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_2.jpg" alt="KANG JEONG WOO PROFILE">
                     </div>
                     <div class="swiper mySwiper">
                         <div class="swiper-wrapper profile_imgs">
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_2.jpg" alt="KANG JUNG WOO PROFILE 02">
+                                        <img class="prof_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_2.jpg" alt="KANG JEONG WOO PROFILE 02">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_3.jpg" alt="KANG JUNG WOO PROFILE 03">
+                                        <img class="prof_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_3.jpg" alt="KANG JEONG WOO PROFILE 03">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_4.jpg" alt="KANG JUNG WOO PROFILE 04">
+                                        <img class="prof_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_4.jpg" alt="KANG JEONG WOO PROFILE 04">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_5.jpg" alt="KANG JUNG WOO PROFILE 05">
+                                        <img class="prof_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_5.jpg" alt="KANG JEONG WOO PROFILE 05">
                                     </div>
                                 </div>
                             </div>
@@ -157,7 +157,7 @@
                             });
                         });
                         const updateImage = function(i) {
-                            let path = `/res/imgs/artist/kangjungwoo/kangjungwoo_${i+1}.jpg`;
+                            let path = `/res/imgs/artist/kangjeongwoo/kangjeongwoo_${i+1}.jpg`;
                             popupImage.src = path;
                             index = i;
                         }
@@ -185,13 +185,13 @@
                             <svg class="icon ic_arrow left" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
                                 <path d="M14 5L21 12M21 12L14 19M21 12L3 12" stroke="#f9f9f9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                             </svg>
-                            <p class="img_popup_title">KANG JUNG WOO ACTIVITIES</p>
+                            <p class="img_popup_title">KANG JEONG WOO ACTIVITIES</p>
                             <svg class="icon ic_arrow right" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
                                 <path d="M14 5L21 12M21 12L14 19M21 12L3 12" stroke="#f9f9f9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                             </svg>
                             <span class="btn_close"></span>
                         </div>
-                        <img class="activities_img_popup-large" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_19.jpg" alt="KANG JUNG WOO ACTIVITIES">
+                        <img class="activities_img_popup-large" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_19.jpg" alt="KANG JEONG WOO ACTIVITIES">
                     </div>
                     <div class="swiper mySwiper">
                         <p class="contents_title txt_gradient">ACTIVITIES</p>
@@ -199,7 +199,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_33.jpg" alt="KANG JUNG WOO ACTIVITIES '브라더스 까라마조프'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_33.jpg" alt="KANG JEONG WOO ACTIVITIES '브라더스 까라마조프'">
                                     </div>
                                     <p>2023, 뮤지컬 '브라더스 까라마조프' 이반 역</p>
                                 </div>
@@ -207,7 +207,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_32.jpg" alt="KANG JUNG WOO ACTIVITIES '보이체크 인더다크'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_32.jpg" alt="KANG JEONG WOO ACTIVITIES '보이체크 인더다크'">
                                     </div>
                                     <p>2023, 뮤지컬 '보이체크 인더다크' 보이체크 역</p>
                                 </div>
@@ -215,7 +215,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_31.jpg" alt="KANG JUNG WOO ACTIVITIES '힙하게'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_31.jpg" alt="KANG JEONG WOO ACTIVITIES '힙하게'">
                                     </div>
                                     <p>2023, JTBC '힙하게'</p>
                                 </div>
@@ -223,7 +223,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_30.jpg" alt="KANG JUNG WOO ACTIVITIES '하얀 차를 탄 여자'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_30.jpg" alt="KANG JEONG WOO ACTIVITIES '하얀 차를 탄 여자'">
                                     </div>
                                     <p>2022, 영화 '하얀 차를 탄 여자'</p>
                                 </div>
@@ -231,7 +231,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_29.jpg" alt="KANG JUNG WOO ACTIVITIES '늑대사냥'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_29.jpg" alt="KANG JEONG WOO ACTIVITIES '늑대사냥'">
                                     </div>
                                     <p>2022, 영화 '늑대사냥' 최영달 역</p>
                                 </div>
@@ -239,7 +239,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_28.jpg" alt="KANG JUNG WOO ACTIVITIES '불도저에 탄 소녀'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_28.jpg" alt="KANG JEONG WOO ACTIVITIES '불도저에 탄 소녀'">
                                     </div>
                                     <p>2022, 영화 '불도저에 탄 소녀' 김인영 역</p>
                                 </div>
@@ -247,7 +247,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_27.jpg" alt="KANG JUNG WOO ACTIVITIES '찬란하고 찬란한'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_27.jpg" alt="KANG JEONG WOO ACTIVITIES '찬란하고 찬란한'">
                                     </div>
                                     <p>2022, 연극 '찬란하고 찬란한'</p>
                                 </div>
@@ -255,7 +255,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_26.jpg" alt="KANG JUNG WOO ACTIVITIES '디아길레프'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_26.jpg" alt="KANG JEONG WOO ACTIVITIES '디아길레프'">
                                     </div>
                                     <p>2022, 뮤지컬 '디아길레프' 브누아 역</p>
                                 </div>
@@ -263,7 +263,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_25.jpg" alt="KANG JUNG WOO ACTIVITIES '디어 마이 라이카'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_25.jpg" alt="KANG JEONG WOO ACTIVITIES '디어 마이 라이카'">
                                     </div>
                                     <p>2022, 뮤지컬 '디어 마이 라이카' 라이카 역</p>
                                 </div>
@@ -271,7 +271,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_24.jpg" alt="KANG JUNG WOO ACTIVITIES '돼지의 왕'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_24.jpg" alt="KANG JEONG WOO ACTIVITIES '돼지의 왕'">
                                     </div>
                                     <p>2022, TIVING '돼지의 왕' 이기원 역</p>
                                 </div>
@@ -279,7 +279,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_23.jpg" alt="KANG JUNG WOO ACTIVITIES '군검사 도베르만'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_23.jpg" alt="KANG JEONG WOO ACTIVITIES '군검사 도베르만'">
                                     </div>
                                     <p>2022, TVN '군검사 도베르만' 군의관 역
 
@@ -289,7 +289,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_22.jpg" alt="KANG JUNG WOO ACTIVITIES '그레이트 코멧'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_22.jpg" alt="KANG JEONG WOO ACTIVITIES '그레이트 코멧'">
                                     </div>
                                     <p>2021, 뮤지컬 '그레이트 코멧' 안드레이/볼콘스키 역</p>
                                 </div>
@@ -297,7 +297,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_21.jpg" alt="KANG JUNG WOO ACTIVITIES '강릉'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_21.jpg" alt="KANG JEONG WOO ACTIVITIES '강릉'">
                                     </div>
                                     <p>2020, 영화 '강릉' 김철기 역</p>
                                 </div>
@@ -305,7 +305,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_20.jpg" alt="KANG JUNG WOO ACTIVITIES '메이드 인 루프탑'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_20.jpg" alt="KANG JEONG WOO ACTIVITIES '메이드 인 루프탑'">
                                     </div>
                                     <p>2020, 영화 '메이드 인 루프탑' 이정민 역</p>
                                 </div>
@@ -313,7 +313,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_19.jpg" alt="KANG JUNG WOO ACTIVITIES '알렉산더'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_19.jpg" alt="KANG JEONG WOO ACTIVITIES '알렉산더'">
                                     </div>
                                     <p>2020, 뮤지컬 '알렉산더' 빌리/고우트 역</p>
                                 </div>
@@ -321,7 +321,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_18.jpg" alt="KANG JUNG WOO ACTIVITIES '더 모던트">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_18.jpg" alt="KANG JEONG WOO ACTIVITIES '더 모던트">
                                     </div>
                                     <p>2020, 뮤지컬 '더 모던트' 남자 역</p>
                                 </div>
@@ -329,7 +329,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_17.jpg" alt="KANG JUNG WOO ACTIVITIES '경이로운 소문'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_17.jpg" alt="KANG JEONG WOO ACTIVITIES '경이로운 소문'">
                                     </div>
                                     <p>2020, OCN '경이로운 소문' 석공 한씨 역</p>
                                 </div>
@@ -337,7 +337,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_16.jpg" alt="KANG JUNG WOO ACTIVITIES '슬기로운 의사생활'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_16.jpg" alt="KANG JEONG WOO ACTIVITIES '슬기로운 의사생활'">
                                     </div>
                                     <p>2020, TVN '슬기로운 의사생활'</p>
                                 </div>
@@ -345,7 +345,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_15.jpg" alt="KANG JUNG WOO ACTIVITIES '남편에게 김희선이 생겼어요'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_15.jpg" alt="KANG JEONG WOO ACTIVITIES '남편에게 김희선이 생겼어요'">
                                     </div>
                                     <p>2020, TVN '드라마 스테이지 - 남편에게 김희선이 생겼어요' 이동성 역</p>
                                 </div>
@@ -353,7 +353,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_14.jpg" alt="KANG JUNG WOO ACTIVITIES '더 헬멧 - Rooms Vol.1'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_14.jpg" alt="KANG JEONG WOO ACTIVITIES '더 헬멧 - Rooms Vol.1'">
                                     </div>
                                     <p>2019, 연극 '더 헬멧 - Rooms Vol.1' 헬멧 E 역</p>
                                 </div>
@@ -361,7 +361,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_13.jpg" alt="KANG JUNG WOO ACTIVITIES '이선동 클린센터'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_13.jpg" alt="KANG JEONG WOO ACTIVITIES '이선동 클린센터'">
                                     </div>
                                     <p>2019, 뮤지컬 '이선동 클린센터' 정규 역</p>
                                 </div>
@@ -369,7 +369,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_12.jpg" alt="KANG JUNG WOO ACTIVITIES '빅이슈'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_12.jpg" alt="KANG JEONG WOO ACTIVITIES '빅이슈'">
                                     </div>
                                     <p>2019, SBS '빅이슈' 배성준 역</p>
                                 </div>
@@ -377,7 +377,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_11.jpg" alt="KANG JUNG WOO ACTIVITIES '눈이 부시게'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_11.jpg" alt="KANG JEONG WOO ACTIVITIES '눈이 부시게'">
                                     </div>
                                     <p>2019, JTBC '눈이 부시게' 독산동 핵주먹 역</p>
                                 </div>
@@ -385,7 +385,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_10.jpg" alt="KANG JUNG WOO ACTIVITIES '카포네 트릴로지'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_10.jpg" alt="KANG JEONG WOO ACTIVITIES '카포네 트릴로지'">
                                     </div>
                                     <p>2018, 연극 '카포네 트릴로지' YOUNG MAN 역</p>
                                 </div>
@@ -393,7 +393,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_9.jpg" alt="KANG JUNG WOO ACTIVITIES '브라더스 까라마조프'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_9.jpg" alt="KANG JEONG WOO ACTIVITIES '브라더스 까라마조프'">
                                     </div>
                                     <p>2018, 뮤지컬 '브라더스 까라마조프' 이반 역</p>
                                 </div>
@@ -401,7 +401,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_8.jpg" alt="KANG JUNG WOO ACTIVITIES '이블데드'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_8.jpg" alt="KANG JEONG WOO ACTIVITIES '이블데드'">
                                     </div>
                                     <p>2018, 뮤지컬 '이블데드' 애쉬 역</p>
                                 </div>
@@ -409,7 +409,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_7.jpg" alt="KANG JUNG WOO ACTIVITIES '여우각시별'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_7.jpg" alt="KANG JEONG WOO ACTIVITIES '여우각시별'">
                                     </div>
                                     <p>2018, SBS '여우각시별' 유 사무관 역</p>
                                 </div>
@@ -417,7 +417,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_6.jpg" alt="KANG JUNG WOO ACTIVITIES '1987'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_6.jpg" alt="KANG JEONG WOO ACTIVITIES '1987'">
                                     </div>
                                     <p>2017, 영화 '1987' 이종창 역</p>
                                 </div>
@@ -425,7 +425,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_5.jpg" alt="KANG JUNG WOO ACTIVITIES '나쁜자석'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_5.jpg" alt="KANG JEONG WOO ACTIVITIES '나쁜자석'">
                                     </div>
                                     <p>2017, 연극 '나쁜자석' 앨런 역</p>
                                 </div>
@@ -433,7 +433,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_4.jpg" alt="KANG JUNG WOO ACTIVITIES '도둑맞은 책'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_4.jpg" alt="KANG JEONG WOO ACTIVITIES '도둑맞은 책'">
                                     </div>
                                     <p>2017, 연극 '도둑맞은 책' 조영락 역</p>
                                 </div>
@@ -441,7 +441,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_3.jpg" alt="KANG JUNG WOO ACTIVITIES '날 보러와요'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_3.jpg" alt="KANG JEONG WOO ACTIVITIES '날 보러와요'">
                                     </div>
                                     <p>2016, 연극 '날 보러와요' 용의자 역</p>
                                 </div>
@@ -449,7 +449,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_2.jpg" alt="KANG JUNG WOO ACTIVITIES '친구2'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_2.jpg" alt="KANG JEONG WOO ACTIVITIES '친구2'">
                                     </div>
                                     <p>2013, 영화 '친구2' 주차요원 역</p>
                                 </div>
@@ -457,7 +457,7 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
-                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjungwoo/kangjungwoo_activities_1.jpg" alt="KANG JUNG WOO ACTIVITIES '파괴된 사나이'">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_1.jpg" alt="KANG JEONG WOO ACTIVITIES '파괴된 사나이'">
                                     </div>
                                     <p>2010, 영화 '파괴된 사나이' 보험회사 남직원 역</p>
                                 </div>
@@ -484,7 +484,7 @@
                                 });
                             });
                             const activitieUpdateImage = function(i) {
-                                let path = `/res/imgs/artist/kangjungwoo/kangjungwoo_activities_${-(i - profileActivitiesPopupImages.length)}.jpg`;
+                                let path = `/res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_${-(i - profileActivitiesPopupImages.length)}.jpg`;
                                 activitiesPopupImage.src = path;
                                 activitiesIndex = i;
                             }

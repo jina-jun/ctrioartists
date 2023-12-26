@@ -67,13 +67,13 @@
                 </svg>
             </div>
             <div class="wrap_artist">
-                <span class="artist" onclick="location.href='./artist/kangjungwoo'">
-                    <img src="./res/imgs/artist/kangjungwoo/kangjungwoo_0.jpg" alt="강정우">
-                    <a href="./artist/kangjungwoo" class="artist-hover">
+                <span class="artist" onclick="location.href='./artist/kangjeongwoo'">
+                    <img src="./res/imgs/artist/kangjeongwoo/kangjeongwoo_0.jpg" alt="강정우">
+                    <a href="./artist/kangjeongwoo" class="artist-hover">
                         <div>
                             <div class="artist-hover-title">
                                 <b>강 정 우</b>
-                                <span>KANG JUNG WOO</span>
+                                <span>KANG JEONG WOO</span>
                             </div>
                             <!-- <span>ARTIST PROFILE »</span> -->
                         </div>

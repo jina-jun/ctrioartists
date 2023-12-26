@@ -81,7 +81,7 @@
                         </div>
                         <div class="artist_info">
                             <p><span class="artist_info_title">생일</span><span>94년 04월 06일</span></p>
-                            <p><span class="artist_info_title">데뷔</span><span>19년 연극 '포룸'<br><span class="artist_info-2line">23년 Disney+ '살인자의 쇼핑몰' 킬러 역</span></span></p>
+                            <p><span class="artist_info_title">데뷔</span><span>19년 연극 '포룸'<br><span class="artist_info-2line">24년 Disney+ '킬러들의 쇼핑몰' 킬러 역</span></span></p>
                         </div>
                         <div class="wrap_icon">
                             <!-- <a href="" class="icon ic_twitter"></a> -->
@@ -197,9 +197,17 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/leeyoonje/leeyoonje_activities_4.jpg" alt="LEE YOON JE ACTIVITIES '킬러들의 쇼핑몰'">
+                                    </div>
+                                    <p>2024, AppleTV+ '북극성'</p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="container_profile_img">
+                                    <div class="wrap_profile_img">
                                         <img class="prof_activities_img" src="../res/imgs/artist/leeyoonje/leeyoonje_activities_3.jpg" alt="LEE YOON JE ACTIVITIES '킬러들의 쇼핑몰'">
                                     </div>
-                                    <p>2024, Desney+ '살인자의 쇼핑몰' 킬러 역</p>
+                                    <p>2024, Desney+ '킬러들의 쇼핑몰' 킬러 역</p>
                                 </div>
                             </div>
                             <div class="swiper-slide">
@@ -313,8 +321,8 @@
                                 <span>드라마</span>
                             </p>
                             <div class="activities_list_item_list">
-                                <!-- <p>2023, ENA '크래시'(예정)</p> -->
-                                <p>2024, Desney+ '살인자의 쇼핑몰' 킬러 역</p>
+                                <p>2024, AppleTV+ '북극성'</p>
+                                <p>2024, Desney+ '킬러들의 쇼핑몰' 킬러 역</p>
                             </div>
                         </div>
                         <!-- <div class="profile_activities_list-item">
