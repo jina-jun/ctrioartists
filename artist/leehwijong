@@ -200,6 +200,14 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/leehwijong/leehwijong_activities_32.jpg" alt="LEE HWI JONG ACTIVITIES '키키의 경계성 인격장애 다이어리'">
+                                    </div>
+                                    <p>2024, 뮤지컬 '키키의 경계성 인격장애 다이어리'</p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="container_profile_img">
+                                    <div class="wrap_profile_img">
                                         <img class="prof_activities_img" src="../res/imgs/artist/leehwijong/leehwijong_activities_31.jpg" alt="LEE HWI JONG ACTIVITIES '잘못된 성장의 사례'">
                                     </div>
                                     <p>2023, 연극 '잘못된 성장의 사례' 인범 역</p>
@@ -594,6 +602,7 @@
                                 <span>뮤지컬</span>
                             </p>
                             <div class="activities_list_item_list">
+                                <p>2024, '키키의 경계성 인격장애 다이어리' 키키 역</p>
                                 <p>2023, '행복한 왕자' 와일드 외 역</p>
                                 <p>2023, '청춘소음' 오영원 역</p>
                                 <p>2022, '원더보이' 정훈 역</p>

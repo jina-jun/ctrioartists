@@ -199,6 +199,14 @@
                             <div class="swiper-slide">
                                 <div class="container_profile_img">
                                     <div class="wrap_profile_img">
+                                        <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_34.jpg" alt="KANG JEONG WOO ACTIVITIES '디아길레프'">
+                                    </div>
+                                    <p>2024, 뮤지컬 '디아길레프' 브누아 역</p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="container_profile_img">
+                                    <div class="wrap_profile_img">
                                         <img class="prof_activities_img" src="../res/imgs/artist/kangjeongwoo/kangjeongwoo_activities_33.jpg" alt="KANG JEONG WOO ACTIVITIES '브라더스 까라마조프'">
                                     </div>
                                     <p>2023, 뮤지컬 '브라더스 까라마조프' 이반 역</p>
@@ -594,6 +602,7 @@
                                 <span>뮤지컬</span>
                             </p>
                             <div class="activities_list_item_list">
+                                <p>2024, '디아길레프' 브누아 역</p>
                                 <p>2023, '브라더스 까라마조프' 이반 역</p>
                                 <p>2023, '보이체크 인더다크' 보이체크 역</p>
                                 <p>2022, '디아길레프' 브누아 역</p>
